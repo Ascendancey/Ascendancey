@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development, specifically in React.js.
 - 🌱 I’m currently working with React.js and Spring Boot (Java) and testing out different frameworks (NestJS) and API languages (GraphQL).
 - 💞️ I’m looking to collaborate on the projects in the field that I will find meaningful.
+- 👨‍💼 My CV is on my website, which is indicated in my profile (to the left).
 - 📫 You can always reach me with an email in my profile (to the left).
 
 <!---
