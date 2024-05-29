@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Ascendancey
 - 👀 I’m interested in Web Development, specifically in React.js.
-- 🌱 I’m currently working with React.js and Spring Boot (Java) and testing out different frameworks (NestJS) and API languages (GraphQL).
-- 💞️ I’m looking to collaborate on the projects in the field that I will find meaningful.
+- 🌱 I’m currently working with React.js and Nest.JS, keeping out with latest trends in Web Development. My focus lies in the area of applied AI technologies.
 - 👨‍💼 My CV is on my website, which is indicated in my profile (to the left).
-- 📫 You can always reach me with an email in my profile (to the left).
+- 📫 You can always reach out to me via email in my profile (to the left).
 
 <!---
 Ascendancey/Ascendancey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
