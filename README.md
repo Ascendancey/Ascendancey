@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ascendancey
 - 👀 I’m interested in Web Development, specifically in React.js.
-- 🌱 I’m currently working with React.js and Nest.JS, keeping out with latest trends in Web Development. My focus lies in the area of applied AI technologies.
+- 🌱 I’m currently working with React.js and Nest.JS, keeping up with latest trends in Web Development. My focus lies in the area of applied AI technologies.
 - 👨‍💼 My CV is on my website, which is indicated in my profile (to the left).
 - 📫 You can always reach out to me via email in my profile (to the left).
 
